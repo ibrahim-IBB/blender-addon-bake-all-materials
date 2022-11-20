@@ -1,6 +1,7 @@
-# english
 # blender-addon-bake-all-materials
 a blender addon for baking all material for the active object
+# english
+
 
 the addon is just  one python file
 
