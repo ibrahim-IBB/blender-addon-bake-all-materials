@@ -1,3 +1,4 @@
+# english
 # blender-addon-bake-all-materials
 a blender addon for baking all material for the active object
 
@@ -26,3 +27,26 @@ note:you most use the "bake_all_materials" button in the addon panel not the "ba
 
 note:the name of the image texture is "MainTexture" you can't change it
 
+# عربي
+
+الاضافة عبارة عن ملف بايثون واحد
+كيف تعمل الاضافة:
+
+1-تأكد ان الاوبجكت فعال
+
+2-اذهب الى محرر العقد ("المكان الذي تعدل فيه الماتيريال")
+
+3-افتح القائمة الجانبية عن طريق الضغط على الحرف N 
+
+4-ستجد الاضافة موجودة في الخانة "misc"
+
+5-قم بأدخال عرض و ارتفاع الصورة ثم اضغط على "bake_all_material"
+
+ملاحظة:البانل الخاص بالاضافة لن يظهر في حال كان محرك الاظهار هو EEVEE
+
+ملاحظة:اعدادات الbake غير موجودة ضمن الاضافة لذا في حال اردت التعديل يجب الذهاب الى البانل الخاصة بالbake الموجودة في "Render Properties
+
+
+ملاحظة: يجب ان تضغط على الزر "bake_all_materials" وليس الزر "bake" الموجود في "Render Properties"
+
+الملاحظة الاخيرة :اسم الصورة سيكون MainTexture ولا يمكن تغييره قبل ان تبدأ عملية الbaking
