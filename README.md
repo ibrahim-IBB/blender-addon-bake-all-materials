@@ -31,6 +31,7 @@ note:the name of the image texture is "MainTexture" you can't change it
 # عربي
 
 الاضافة عبارة عن ملف بايثون واحد
+
 كيف تعمل الاضافة:
 
 1-تأكد ان الاوبجكت فعال
@@ -45,7 +46,7 @@ note:the name of the image texture is "MainTexture" you can't change it
 
 ملاحظة:البانل الخاص بالاضافة لن يظهر في حال كان محرك الاظهار هو EEVEE
 
-ملاحظة:اعدادات الbake غير موجودة ضمن الاضافة لذا في حال اردت التعديل يجب الذهاب الى البانل الخاصة بالbake الموجودة في "Render Properties
+ملاحظة:اعدادات الbake غير موجودة ضمن الاضافة لذا في حال اردت التعديل يجب الذهاب الى البانل الخاصة بالbake الموجودة في "Render Properties"
 
 
 ملاحظة: يجب ان تضغط على الزر "bake_all_materials" وليس الزر "bake" الموجود في "Render Properties"
